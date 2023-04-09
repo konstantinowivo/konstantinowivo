@@ -11,19 +11,6 @@
 
 - 📫 How to reach me **ivokonstantinow@gmail.com**
 
-- ⚡ Fun fact **<h1 align="center">Hi 👋, I'm Ivo Konstantinow</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
-
-- 🔭 I’m currently working on [a little proyect about my family web business "Matafuegos Noble"](https://matafuegosnoble.vercel.app/)
-
-- 🌱 I’m currently learning **Angular and program logic**
-
-- 👨‍💻 All of my projects are available at [https://github.com/konstantinowivo](https://github.com/konstantinowivo)
-
-- 💬 Ask me about **Angular and JS**
-
-- 📫 How to reach me **ivokonstantinow@gmail.com**
-
 - ⚡ Fun fact **Humans are related to every other species on Earth. The genes of organisms that look very different are surprisingly similar. For example, human DNA sequences are over 95% identical to chimpanzee sequences and around 50% identical to banana sequences.**
 
 <h3 align="left">Connect with me:</h3>
