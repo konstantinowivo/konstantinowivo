@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a little proyect about my family web business "Matafuegos Noble"](https://matafuegosnoble.vercel.app/)
 
-- 🌱 I’m currently learning **Angular and program logic**
+- 🌱 I’m currently learning **Angular and programming logic**
 
 - 👨‍💻 All of my projects are available at [https://github.com/konstantinowivo](https://github.com/konstantinowivo)
 
