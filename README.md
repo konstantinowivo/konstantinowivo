@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/konstantinowivo](https://github.com/konstantinowivo)
 
-- 💬 Ask me about **Angular and JS**
+- 💬 Ask me about **React.js and JS**
 
 - 📫 How to reach me **ivokonstantinow@gmail.com**
 
