@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [a little proyect about my family web business "Matafuegos Noble"](https://matafuegosnoble.vercel.app/)
 
-- 🌱 I’m currently learning **Angular and programming logic**
+- 🌱 I’m currently learning **React JS and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/konstantinowivo](https://github.com/konstantinowivo)
+- 👨‍💻 You can check my most recent proyect here. An interactive todo list! [https://www.ivokonstantinow.lat](https://www.ivokonstantinow.lat)
 
 - 💬 Ask me about **React.js and JS**
 
 - 📫 How to reach me **ivokonstantinow@gmail.com**
 
-- ⚡ Fun fact **Humans are related to every other species on Earth. The genes of organisms that look very different are surprisingly similar. For example, human DNA sequences are over 95% identical to chimpanzee sequences and around 50% identical to banana sequences.**
+- ⚡ My will is my **super power**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
