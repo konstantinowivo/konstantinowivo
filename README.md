@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [a little proyect about my family web business "Matafuegos Noble"](https://matafuegosnoble.vercel.app/)
 
-- 🌱 I’m currently learning **React JS and JavaScript**
-
-- 👨‍💻 You can check my most recent proyect here. An interactive todo list! [https://www.ivokonstantinow.lat](https://www.ivokonstantinow.lat)
+- 🌱 I’m currently learning **Node js & Express**
 
 - 💬 Ask me about **React.js and JS**
 
