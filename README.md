@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivo Konstantinow</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [a little proyect about my family web business "Matafuegos Noble"](https://matafuegosnoble.vercel.app/)
+- 🔭 I’m currently working on [a little proyect about my family web business "Matafuegos Noble"](https://noblematafuegos.vercel.app/)
 
 - 🌱 I’m currently learning **Node js & Express**
 
