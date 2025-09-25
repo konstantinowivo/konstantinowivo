@@ -26,12 +26,13 @@
 - **UI Focus:** Intuitive user interfaces, attractive visual design, user experience optimization
 - **State Management:** Context API, Redux basics
 
-### **Backend Development**
+### **Backend Development & CMS**
 - **Runtime:** Node.js
 - **Frameworks:** Express.js
 - **Databases:** MongoDB (with Mongoose)
 - **APIs:** RESTful services, JSON handling
 - **MERN Stack:** Full integration of MongoDB, Express, React, and Node.js
+- **CMS:** WordPress development, custom themes, plugin customization
 
 ### **Development Tools & Education**
 - **Version Control:** Git, GitHub
@@ -45,17 +46,12 @@
 ## 🎯 What I Offer as a Freelancer
 
 - **MERN Stack Specialist:** Complete full-stack solutions using MongoDB, Express.js, React, and Node.js
+- **WordPress Development:** Custom themes, plugin customization, and CMS solutions
 - **UI/UX Focus:** Creating intuitive and visually appealing interfaces that users love to interact with
 - **Problem Solver:** Strong analytical skills with a focus on clean, maintainable, and scalable code
 - **Continuous Learner:** Currently pursuing formal education while staying updated with industry trends
 - **Client-Focused:** Understanding business needs and translating them into effective web solutions
 - **Reliable & Professional:** Committed to delivering quality work on time as an independent developer
-
----
-
-## 📊 GitHub Stats
-
-![Ivo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivokonstantinow&show_icons=true&theme=radical)
 
 ---
 
@@ -104,6 +100,9 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
